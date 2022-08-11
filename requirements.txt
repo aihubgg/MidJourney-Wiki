@@ -1,6 +1,6 @@
 mkdocs
 #Add pip package if needed
 pymdown-extensions
+markdown-grid-tables
 fontawesome-markdown
 mkdocs-material
-markdown-grid-tables
