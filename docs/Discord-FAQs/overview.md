@@ -1,24 +1,8 @@
-## Frequent FAQ Writers.  
-- AfterEarth
-- Tally
-- Danger Awesome
-- Dr3am L0g1c
-- clarinet
-- shambibble
-- TwinGodhead
-- 2hanssen4u
-- Saukko
-- JermeyCurious
+# Welcome to the Discord Section of our wiki!
+## All of the Discord Threads are Here
 
-
-## Not so Frequent FAQ Writers.
-- Gamekiller48
-- HyS 
-- bob
-- Lyman
+## List of Threads
+- [Prompt-Craft FAQ Thread](https://discord.com/channels/662267976984297473/996170079102312468)
 
 
 
-## Links 
-- Soyfki
-- LiviaTheodora

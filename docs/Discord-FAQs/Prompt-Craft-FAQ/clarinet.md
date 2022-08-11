@@ -136,7 +136,50 @@ You need three things to get a full body portrait:<br>
 ---
 
 <details>
-<summary>07/1/2022 - </summary>
+<summary>07/23/2022 - re: how commas and ::'s effect  weights </summary>
+<br>
+ <img alt="Midjourney Discord Picture" src="https://media.discordapp.net/attachments/996170079102312468/1000424208389656656/IMG_1456.jpg?width=923&height=493">
+<br>
+</details>
+---
+<details>
+<summary>07/31/2022 - Images </summary>
+<br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/992207085146222713/1003321791760048158/unknown.png"><br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/1003325317953376316/unknown-4.png"><br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/1003325317953376316/unknown-4.png"><br>
+<br>
+</details>
+---
+<details>
+<summary>07/31/2022 - HANDS DRAGONS WHALES BIRDS AND OTHER CHAOSBLOBS</summary>
+<br>
+The data source contains 100,000+ pictures of whales, no two alike, so it's really hard for MJ to settle on a single whale. He is superimposing and averaging together all the whale cues he's picking up from his data set. The same will happen to birds, dragons, hands, anything that has a lot of motion and unique representations in the data set. The best you could do is try to reduce the subset of pictures MJ is sourcing from. Start talking about whales next to divers, alongside boats, breaching, photographed by famous nature photographers who do whales, artists who do whales, movies with whales, etc. That specificity will narrow the range of images MJ is sourcing from. It will increase the coherence of the output.
+<br>
+</details>
+---
+<details>
+<summary>08/02/2022 - Discord Settings</summary>
+<br>
+ <img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/1004187503898673152/IMG_1513.jpg">
+<br>
+</details>
+---
+<details>
+<summary>08/02/2022 - </summary>
+<br>
+<p><strong>START IMAGES / IMAGE PROMPTS</strong></p>
+<p>Image prompts INFLUENCE outcomes, but images are not &quot;ingested, processed, and returned to you&quot; as you might expect.</p>
+<p>When you provide an image URL as the first element of your text prompt, MJ will, in a way, use it to write its own text prompt and run its prompt and your prompt together.</p>
+<p>To increase the chance of getting the composition you&#39;re chasing, the prompt you write to include with the image must <em>describe the entire final output you want to see.</em></p>
+<p>Play with <code>--iw</code> (image weight) values and reroll. <strong>USE 1:1 ASPECT RATIO IMAGES AS PROMPTS</strong></p>
+<br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/1004202097371267153/image-prompts-and-you-2022-08-02_20-37-29.jpg">
+<br>
+</details>
+---
+<details>
+<summary>08/1/2022 - </summary>
 <br>
 Drop
 <br>

@@ -8,16 +8,18 @@ nav:
         - Home: README.md
         - Discord FAQs:
                   - Overview: Discord-FAQs/overview.md
-                  - clarinet: Discord-FAQs/clarinet.md
-                  - AfterEarth: Discord-FAQs/AfterEarth.md
-                  - Tally: Discord-FAQs/Tally.md
-                  - Danger Awesome: Discord-FAQs/DangerAwesome.md
-                  - Dr3am L0g1c: Discord-FAQs/Dr3amL0g1c.md
-                  - shambibble: Discord-FAQs/shambibble.md
-                  - TwinGodhead: Discord-FAQs/TwinGodhead.md
-                  - 2hanssen4u: Discord-FAQs/2hanssen4u.md
-                  - Saukko: Discord-FAQs/Saukko.md
-                  - JeremyCurious: Discord-FAQs/JermeyCurious.md
+                  - Promt-Craft FAQs:
+                                - Overview: Discord-FAQs/Prompt-Craft-FAQ/overview.md
+                                - clarinet: Discord-FAQs/Prompt-Craft-FAQ/clarinet.md
+                                - AfterEarth: Discord-FAQs/Prompt-Craft-FAQ/AfterEarth.md
+                                - Tally: Discord-FAQs/Prompt-Craft-FAQ/Tally.md
+                                - Danger Awesome: Discord-FAQs/Prompt-Craft-FAQ/DangerAwesome.md
+                                - Dr3am L0g1c: Discord-FAQs/Prompt-Craft-FAQ/Dr3amL0g1c.md
+                                - shambibble: Discord-FAQs/Prompt-Craft-FAQ/shambibble.md
+                                - TwinGodhead: Discord-FAQs/Prompt-Craft-FAQ/TwinGodhead.md
+                                - 2hanssen4u: Discord-FAQs/Prompt-Craft-FAQ/2hanssen4u.md
+                                - Saukko: Discord-FAQs/Prompt-Craft-FAQ/Saukko.md
+                                - JeremyCurious: Discord-FAQs/Prompt-Craft-FAQ/JermeyCurious.md
 theme:
         name: material
         highlightjs: true
