@@ -82,3 +82,5 @@ plugins:
       type: datetime
 extra:
         manifest: "static/site.webmanifest"
+extra_javascript: 
+     - static/analytics.js
