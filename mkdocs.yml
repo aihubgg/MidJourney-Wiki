@@ -81,7 +81,7 @@ plugins:
   - git-revision-date-localized:
       type: datetime
 extra:
-        manifest: "static/site.webmanifest"
-        analytics:
-                provider: google
-                property: G-6D0LKC374E
+  manifest: "static/site.webmanifest"
+  analytics:
+        provider: google
+        property: G-6D0LKC374E
