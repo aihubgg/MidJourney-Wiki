@@ -37,4 +37,3 @@
 <p>I dunno man I figured all this out in the last week or so get back to me.</p>
 <br>
 </details>
----

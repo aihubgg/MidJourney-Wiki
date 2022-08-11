@@ -143,7 +143,7 @@ To make an image look more photo-like, adding :: digital painting::-0.4 appears 
 ## From User [Lyman](https://discord.com/users/165949638770163713)\
 
 <details>
-<summary>08/01/2022 - <p>For Less &quot;Overpainted&quot; Paintings **</p></summary>
+<summary>08/01/2022 - For Less &quot;Overpainted&quot; Paintings</summary>
 <br>
 <p>If you&#39;ve experimented enough with MidJourney you may find that sometimes it&#39;s not the best at getting your textures right, at least, not without a dozen string of tags to help ensure it- but fret not, there&#39;s a good way of working with Midjourney&#39;s Variation to &quot;add&quot; detail to a relatively underpainted image, getting that <em>juuuust</em> right.</p>
 <p>We&#39;re going to be utilizing the <code>--quality</code> tag and also the <code>--stop</code> tag to tell MJ to stop right before we stop off.</p>
@@ -161,4 +161,3 @@ To make an image look more photo-like, adding :: digital painting::-0.4 appears 
 <p>I hope this helps someone out!</p>
 <br>
 </details>
----
