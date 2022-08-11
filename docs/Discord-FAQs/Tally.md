@@ -73,27 +73,27 @@ Stolen from a (prompt-craft member)<br>Photorealism is what painters use to desc
 <details>
 <summary>7/21/2022 - Does stop affect upscale?  </summary>
 <br>
-No! The upscale process will generate all of its detail as it normally does, \_but\_ if stopping early causes the base grid to look different, the upscale will still rely on what was produce by the grid and create a very different upscale:<br>![](https://cdn.discordapp.com/attachments/996170079102312468/999879557819670538/Tallath_teapot_34e8b04f-ac1b-4b10-b4b7-97180634909d.png)<br>
-![](https://cdn.discordapp.com/attachments/996170079102312468/999879558041964594/Tallath_teapot_95912add-9063-4627-897a-6d295f7fe74e.png)<br>
-![](https://cdn.discordapp.com/attachments/996170079102312468/999879558343966760/Tallath_teapot_8c884060-4e65-4056-a5b8-6acb276a6eef.png)<br>
-![](https://cdn.discordapp.com/attachments/996170079102312468/999879558675304488/Tallath_teapot_e5e6a90c-1991-4621-94b8-311ea3ea119b.png)<br>
-![](https://cdn.discordapp.com/attachments/996170079102312468/999879558998274118/Tallath_teapot_b11d91c6-61bd-48bc-ae18-976d7651714c.png)<br>
-![](https://cdn.discordapp.com/attachments/996170079102312468/999879559228956712/Tallath_teapot_a8fc71ae-62f8-42fd-960e-d9cf3e0fba30.png)<br>
+No! The upscale process will generate all of its detail as it normally does, \_but\_ if stopping early causes the base grid to look different, the upscale will still rely on what was produce by the grid and create a very different upscale:<br> <img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/999879557819670538/Tallath_teapot_34e8b04f-ac1b-4b10-b4b7-97180634909d.png"><br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/999879558041964594/Tallath_teapot_95912add-9063-4627-897a-6d295f7fe74e.png"><br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/999879558343966760/Tallath_teapot_8c884060-4e65-4056-a5b8-6acb276a6eef.png"><br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/999879558675304488/Tallath_teapot_e5e6a90c-1991-4621-94b8-311ea3ea119b.png"><br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/999879558998274118/Tallath_teapot_b11d91c6-61bd-48bc-ae18-976d7651714c.png"><br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/999879559228956712/Tallath_teapot_a8fc71ae-62f8-42fd-960e-d9cf3e0fba30.png"><br>
 </details>
 ---
 <details>
 <summary>7/25/2022 - Quality vs Style  </summary>
 <br>
-Please note: quality settings will get rounded to the closest available setting (so .25, .5, 1, 2, and 5 are the only options available, others will be rounded)<br>![](https://cdn.discordapp.com/attachments/996170079102312468/1001168218553073755/TEAPOTSTYLES.png)
+Please note: quality settings will get rounded to the closest available setting (so .25, .5, 1, 2, and 5 are the only options available, others will be rounded)<br><img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/1001168218553073755/TEAPOTSTYLES.png"><br>
 ---
 <details>
 <summary>7/26/2022 - Condensed version with only allowable --q values </summary>
 <br>
-![](https://cdn.discordapp.com/attachments/996170079102312468/1001174568100180038/TeapotStylesSmall.png)
+ <img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/1001174568100180038/TeapotStylesSmall.png">
 </details>
 ---
 <details>
 <summary>7/27/2022 - How quality affects various prompts </summary>
 <br>
-(Scrub through the timeline for easy comparison) [Click for Video](https://cdn.discordapp.com/attachments/996170079102312468/1001451942423314442/MJQualities.mp4
+(Scrub through the timeline for easy comparison)  <p><a href="https://cdn.discordapp.com/attachments/996170079102312468/1001451942423314442/MJQualities.mp4">Click for Video]</a></p>
 </details>
