@@ -1,3 +1,5 @@
+# From User [clarinet](https://discord.com/users/219587894862413824)
+
 <details>
 <summary>07/13/2022 - Instructions for Avast users to add Midjourney as a "safe" destination:</summary>
 <br>
