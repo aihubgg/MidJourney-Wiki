@@ -1,4 +1,5 @@
 # Welcome to the FAQ from the Prompt-Craft Channel
+[Prompt-Craft FAQ Thread](https://discord.com/channels/662267976984297473/996170079102312468)
 
 ## Frequent FAQ Writers.  
 - AfterEarth

@@ -165,6 +165,7 @@ The data source contains 100,000+ pictures of whales, no two alike, so it's real
 <br>
 </details>
 ---
+
 <details>
 <summary>08/02/2022 - </summary>
 <br>
@@ -178,10 +179,180 @@ The data source contains 100,000+ pictures of whales, no two alike, so it's real
 <br>
 </details>
 ---
+
 <details>
-<summary>08/1/2022 - </summary>
+<summary>08/03/2022 -  Is there a good guide to camera control lingo I can use in MJ? </summary>
 <br>
-Drop
+We don't know which of these terms MJ understands but we think you should experiment and report back!<br>
+
+<a href="https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/">Click here for some help!</a>
+<br>
+</details>
+---
+
+<details>
+<summary>08/04/2022 - How can I add legible text to my composition?</summary>
+<br>
+Your mileage may vary, but here are the four elements to rendering text that we think might be necessary. <br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/1004909243532574850/midjourney-text-placement-suggestion-shambibble.jpg">
+<br>
+</details>
+---
+
+<details>
+<summary>08/04/2022 - WEIGHTS = <strong>WEIGHTED AVERAGES</strong></summary>
+<br>
+<p>So here&#39;s how it works (excuse some simplification):</p>
+<p><code>dog:: cat::</code> = is dog (once), cat (once), averaged</p>
+<p><code>dog::2 cat::2</code> = is dog dog (twice now) cat cat (twice now), averaged</p>
+<p><code>dog::4 cat:1</code> = dog dog dog dog cat, averaged</p>
+<p><code>dog::1 cat:3</code> = dog cat cat cat, averaged</p>
+<p>You can play with these values to influence how they render:</p>
+<p><code>Something::1</code></p>
+<p><code>Lightly Something::0.5</code></p>
+<p>``Eliminate Something::-1</p>
+<br>
+</details>
+---
+
+<details>
+<summary>08/04/2022 - The best chance of creating a full weapon:</summary>
+<br>
+<p>1. Use an aspect ratio that suits the most common orientation of the weapon. Swords are vertical, rifles are horizontal.</p>
+<p>2. Google the weapon in question and find its specific terms. Don&#39;t say &quot;bow&quot; - say &quot;recurve bow&quot;. Don&#39;t say &quot;sword in a lake&quot; - say &quot;Excalibur&quot;.</p>
+<p>3. Find artists and other style cues that correspond to the weapon you&#39;re after. What media, games, movies, comics, artists, genres, etc represent your weapon well? Include these in your prompt. <em>Some</em> of them might work. Others will be dead weight.</p>
+<p>4. Finally, if you want an action pose, then VERB  your weapon. Do not say &quot;an orc with a sword&quot; - say &quot;a Warhammer 40k orc fighting the wind with a broadsword&quot; or &quot;a 16th century samurai warrior striking a wooden dummy with Excalibur&quot;</p>
+<br>
+</details>
+---
+
+<details>
+<summary>08/04/2022 - TO EVOLVE YOUR CREATION, ROLL MORE
+ </summary>
+<br>
+<p>🔹 <strong>/imagine</strong> renders a grid of possible compositions from your prompt inside a cached session</p>
+<p>🔹  <strong>Reroll</strong> 🔄 <em>also</em> renders a grid of possible compositions from your prompt ...<em>plus</em> adds another iteration of detail</p>
+<p>🔹 <strong>Variation</strong> [V1] renders a grid similar to your selection ...<em>plus</em> adds another iteration of detail</p>
+<p>🔹<strong>Upscale</strong> [U1] increases the size of your selection from thumbnail to full ...<em>plus</em> adds another iteration of detail</p>
+<p>🔷  So, all these interactions evolve your composition... BUT! </p>
+<p><code>--uplight</code>  at the end of your prompt uses a light touch to simplify details when it is rolled, and</p>
+<p> <code>--stop 90</code> halts the whole render process like a handbrake at whatever percentage you specify (replace 90 with your own number)</p>
+<p>➡️  These iterations of detail are good for one session of <code>/imagine</code>. When you manually use <code>/imagine</code> again, it starts a 🆕 new session and evolutionary progress resets.</p>
+<br>
+</details>
+---
+
+<details>
+<summary>08/05/2022 - SEED AND SAMESEED</summary>
+<br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/1004963574352969779/how-do-seeds-work-gdi.jpg">
+<br>
+</details>
+---
+
+<details>
+<summary>08/05/2022 - QUEUE TROUBLE? </summary>
+<br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/1005149494515613777/788CF709-7640-43F0-B9C9-313B382D37E3.png">
+<br>
+</details>
+---
+
+<details>
+<summary>08/05/2022 - COMMON STORE FRAMING SIZES</summary>
+<br>
+<p><strong>COMMON STORE FRAMING SIZES</strong> </p>
+<p>(in inches):: = </p>
+<p>--ar 4:5 (8x10 &amp; 16x20) </p>
+<p> --ar 1:3 (11.75x36) ... its really 1:3.06 = 47:144</p>
+<p> --ar 11:4 (16.5x6)</p>
+<p> --ar 11:14 (11:14 &amp; 22x28)</p>
+<p> --ar 3:4 (12x16)</p>
+<p> --ar 13:19 (13x19)</p>
+<p> --ar 7:9 (14x18)</p>
+<p> --ar 3:8 (18x24)</p>
+<p> --ar 5:6 (20x24)</p>
+<p> --ar 2:3 (24x36 &amp; 20x30)</p>
+<hr>
+<p>with thanks to &lt;@Jonh2o#5670&gt; </p>
+<hr>
+
+<br>
+</details>
+---
+
+<details>
+<summary>08/05/2022 - PUNCTUATION MEANS WHAT?</summary>
+<br>
+<p>So <code>::</code> is the only &#39;official&#39; break in a prompt, but comma, plus, pipes all have some (minor) effects as well.  Nothing consistent, but in some cases one may be better than another.</p>
+<p>Here&#39;s a test I ran a while back:</p>
+<p><code>Red panda</code> clearly shows the animal of that name.</p>
+<p><code>Red, panda</code> separates them a little bit (a red-haired red panda)</p>
+<p><code>Red:: panda</code> gives a panda that is red</p>
+<p><code>Red:: panda:: ---no red panda</code> is even more clearly a panda which is red (and not a red panda)</p>
+<br>
+<img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/992207085146222713/996970513865908345/F2C250B0-73AA-4828-9D2B-8C50C51E8804.jpg">
+<br>
+</details>
+---
+
+<details>
+<summary>08/06/2022 - <strong>How to check first if Midjourney even understands your sourcing reference:</strong> </summary>
+<br>
+<p>➡️  TLDR: /imagine something you&#39;ll recognize as being in that style.</p>
+<p>1. 🤔  You want to say <code>in the style of Ren &amp; Stimpy</code> (for example) but you don&#39;t know if Midjourney will understand that.</p>
+<p>2. 🤔 You think about something that appears commonly in that style. For example, something that appears often in Ren &amp; Stimpy is a <strong>cartoon chihuahua</strong> (that&#39;s Ren himself).</p>
+<p>3. 💻 You do this simple test: <code>/imagine a cartoon chihuahua in the style of Ren &amp; Stimpy</code></p>
+<p>4. 👍  If output looks like it&#39;s adopted the style you named, you&#39;re golden.</p>
+<pre><code> 👎  If it appears generic <span class="hljs-keyword">with</span> lots of orange <span class="hljs-keyword">and</span> teal colors, yo<span class="hljs-string">u're looking at Midjourney '</span>defaults<span class="hljs-string">' which is an error message meaning NOT FOUND.</span>
+</code></pre>
+<br>
+</details>
+---
+
+<details>
+<summary>08/06/2022 - HOW DO I RECREATE ONE OF MY IMAGES WITH A SMALL CHANGE?</summary>
+<br>
+<p>For those of you who know the term PRIMARY KEY from relational databases...</p>
+<p><code>$string of your prompt + the $integer of your seed = primary key for the image output</code></p>
+<p>If you&#39;ve made an image of a red bird on a <strong>white</strong> background and want to make it a red bird on a <strong>black</strong> background, and you change just that <em>one word</em> and roll the prompt again with its $seed again, you will <em>almost</em> get the same picture but with the new color. If you change the aspect ratio, watch for MJ to possibly completely reinterpret the prompt for the new canvas size.</p>
+<p>✅ TLDR: If you use <code>EXACT $string + $seed</code> again, you&#39;ve used a primary key to recreate a close approximation of your original composition. But NEVER pixel-to-pixel exactly the same. </p>
+<hr>
+<p><strong>FAQ: How do I know the seed value?</strong></p>
+<p>➡️ <a href="https://discord.com/channels/662267976984297473/996170079102312468/997635192116219904">https://discord.com/channels/662267976984297473/996170079102312468/997635192116219904</a></p>
+
+<br>
+</details>
+---
+
+<details>
+<summary>08/09/2022 - How can I reuse the same consistent character like an actor in a scene?</summary>
+<br>
+Clarinet's Method - Directing Characters in a Scene
+https://bit.ly/Clarinet-MJ-Puppets
+<br>
+</details>
+---
+
+<details>
+<summary>08/09/2022 - How can I render the same consistent character in multiple visual styles?
+</summary>
+<br>
+Shambibble's  Method - Rendering Characters in Different Visual Styles
+https://docs.google.com/document/d/13c8Ci-8kU2PVZu6DKghlhOOrbf4kmtc9xxCJAnPqvC0/edit
+
+<br>
+</details>
+---
+
+<details>
+<summary>08/11/2022 - WEIGHTED AVERAGES
+</summary>
+<br>
+<p><em>crappy video explaining math - extrapolate to weights in MJ</em></p><br>
+<video controls>
+      <source id="mp4" src="https://cdn.discordapp.com/attachments/996170079102312468/1007325569840578570/Whiteboard-Math-Lesson-Sample-v0.03-DRAFT.mp4" type="video/mp4">
+</videos>
 <br>
 </details>
 ---

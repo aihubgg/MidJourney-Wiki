@@ -1,5 +1,7 @@
+# Date Templates
+
 <details>
-<summary>07/1/2022 - </summary>
+<summary>07/01/2022 - </summary>
 <br>
 Drop
 <br>
@@ -7,14 +9,18 @@ Drop
 ---
 
 <details>
-<summary>08/1/2022 - </summary>
+<summary>08/01/2022 - </summary>
 <br>
 Drop
 <br>
 </details>
 ---
- <img alt="Midjourney Discord Picture" src="">
+#Img and Video Templates
+
+<img alt="Midjourney Discord Picture" src="">
  
 <video controls>
-      <source id="mp4" src="https://cdn.discordapp.com/attachments/996170079102312468/1001451942423314442/MJQualities.mp4" type="video/mp4">
+      <source id="mp4" src="http" type="video/mp4">
 </videos>
+
+<a href="">Link</a>
