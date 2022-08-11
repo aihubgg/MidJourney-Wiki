@@ -3,3 +3,4 @@ mkdocs
 pymdown-extensions
 fontawesome-markdown
 mkdocs-material
+markdown-grid-tables

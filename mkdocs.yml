@@ -70,5 +70,6 @@ markdown_extensions:
         - pymdownx.tilde
         - fontawesome_markdown
         - tables
+        - markdown-grid-tables
 extra:
         manifest: "static/site.webmanifest"
