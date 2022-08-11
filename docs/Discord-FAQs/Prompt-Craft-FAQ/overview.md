@@ -1,7 +1,14 @@
 # Welcome to the FAQ from the Prompt-Craft Channel
 [Prompt-Craft FAQ Thread](https://discord.com/channels/662267976984297473/996170079102312468)
 
-## Frequent FAQ Writers.  
+
+## Popular Resources
+- [MidJourney Style Guide by LiviaTheodora]()
+
+
+
+
+#### FAQ Writers.  
 - AfterEarth
 - Tally
 - Danger Awesome
@@ -12,16 +19,9 @@
 - 2hanssen4u
 - Saukko
 - JermeyCurious
-
-
-## Not so Frequent FAQ Writers.
 - Gamekiller48
 - HyS 
 - bob
 - Lyman
-
-
-
-## Links 
 - Soyfki
 - LiviaTheodora
