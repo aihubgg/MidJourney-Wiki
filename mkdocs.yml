@@ -82,5 +82,6 @@ plugins:
       type: datetime
 extra:
         manifest: "static/site.webmanifest"
-extra_javascript: 
-     - static/analytics.js
+        analytics:
+                provider: google
+                property: G-6D0LKC374E
