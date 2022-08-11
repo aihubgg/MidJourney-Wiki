@@ -10,9 +10,9 @@ Open Avast > go to Menu > Settings > General > Exceptions > [Add Exception] butt
 There are two ways to find the seed number. 
 <br>
 
-**[1]** If you are working with a current composition and it's on the screen in front of you, you can react to it with an envelope and wait. A moment later the bot will send you a display that includes the seed.
+<p><strong>[1]</strong> If you are working with a current composition and it&#39;s on the screen in front of you, you can react to it with an envelope and wait. A moment later the bot will send you a display that includes the seed.
 <br>
-**[2]** If you are trying to find the seed from a prior creation, you will need to copy the ``job ID`` from the website details ``[...]`` menu, then use the ``/show`` command with that ID, and then react to that display with the envelope.
+<strong>[2]</strong> If you are trying to find the seed from a prior creation, you will need to copy the <code>job ID</code> from the website details <code>[...]</code> menu, then use the <code>/show</code> command with that ID, and then react to that display with the envelope.</p>
 </details>
 ---
 <details>
@@ -30,7 +30,7 @@ This translation of image-to-language-prompt is why feeding MJ seed images behav
 </details>
 ---
 <details>
-<summary>07/1/2022 - Is there any way to make MJ interpret my prompt with complete accuracy?</summary>
+<summary>07/16/2022 - Is there any way to make MJ interpret my prompt with complete accuracy?</summary>
 <br>
 We have found only one 100% accurate prompt: <br>
  <img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/997864542115737640/IMG_1362.png">
@@ -41,10 +41,8 @@ We have found only one 100% accurate prompt: <br>
 ---
 
 <details>
-<summary>07/16/2022 - </summary>
+<summary>07/16/2022 - The Three Basket Problem:</summary>
 <br>
-The Three Basket Problem:<br> 
-
 “There are three baskets. The first one is filled with blueberries, the second one is filled with apples, the last one is filled with strawberries.” <br>
 
 
@@ -58,9 +56,9 @@ Bottom line: You might be able to get three baskets, but the current version of 
 ---
 
 <details>
-<summary>07/16/2022 - </summary>
+<summary>07/16/2022 - Why is it so hard to get specific compositional arrangements?
+ </summary>
 <br>
-Why is it so hard to get specific compositional arrangements?
 Conjecture: MJ relies on the "art direction" of its sources to decide how to arrange things for you. How does that play out? It means there are the places in your prompt where the sourcing is noticeably influencing your composition: <br>
 
 Direct objects: The dog barks at the ball.<br>
@@ -109,41 +107,12 @@ You need three things to get a full body portrait:<br>
 <details>
 <summary>07/22/2022 - SUMMARY</summary>
 <br>
-How do I find my 'random seed' value/number?<br>
-
-There are two ways to find the seed number. <br>
-
-.A start image** is an image URL as the first element in your prompt. It is like giving MJ a hint about what to create for you.  MJ does not apply itself to that image like a filter, but rather creates another language prompt from it to add to yours.<br>
-
-**In order to get a full body portrait,** you need an aspect ratio that is tall enough to account for the whole figure, a source of poses that includes full body examples (such as ``stock photography``), and details for MJ to include for the entire figure.<br>
-
-**Reroll** 🔄  renders a fresh grid for your prompt ...plus adds another iteration of details, **Variation** [V1] renders a  similar grid  from your prompt ...plus adds another iteration of detail, **Upscale** [U1] increases the size from thumbnail to full ...plus adds another iteration of detail, but **--Uplight** uses a light touch to simplify details, and **--Stop** halts the whole render process like a handbrake.<br>
-
-It can be difficult to get MJ to generate **specific compositional arrangements** because the algorithm relies on the "art direction" of its sources. To improve your chances of getting the composition you want, use specific words, grammatically correct language, and work with MJ through grid selections.<br>
-
-**To find the seed** for a current composition, react to it with an envelope. To find the seed for a past composition, copy the job ID from the website details menu and use the ``/show`` command with that ID, then react to the display that appears with an envelope.<br>
-
-**Multi-prompts** are two or more independent prompts about a single subject or setting. They are helpful to  ``clearly establish a setting:: then embellish upon subjects in that setting<br>
-
-[1] If you are working with a current composition and it's on the screen in front of you, you can react to it with an envelope and wait. A moment later the bot will send you a display that includes the seed.<br>
-
-
-
-[2] If you are trying to find the seed from a prior creation, you will need to copy the ``job ID`` from the website details ``[...]`` menu, then use the ``/show`` command with that ID, and then react to that display with the envelope..<br>
-
-
-
-**What does a 'start' or 'seed' image really do?**<br>
-
-When you provide a start image (URL) to MJ, it runs its AI *image recognition process* against the image, and produces a language prompt (just like ours), which it then prepends to whatever language prompt YOU give it. <br>
-
-
-
-MJ then uses the default weight, or the weight you provided with ``---iw``, to process both its MJ-created language prompt AND your human-created language prompt *together*. <br>
-
-
-
-This translation of image-to-language-prompt is why feeding MJ seed images behaves nothing like a Photoshop filter: MJ picks up the subject matter and concepts, i.e. nouns - verbs - adjectives - anything that might surface as a word in a language prompt.
+<p><strong>A start image</strong> is an image URL as the first element in your prompt. It is like giving MJ a hint about what to create for you.  MJ does not apply itself to that image like a filter, but rather creates another language prompt from it to add to yours.</p>
+<p><strong>In order to get a full body portrait,</strong> you need an aspect ratio that is tall enough to account for the whole figure, a source of poses that includes full body examples (such as <code>stock photography</code>), and details for MJ to include for the entire figure.</p>
+<p><strong>Reroll</strong> 🔄  renders a fresh grid for your prompt ...plus adds another iteration of details, <strong>Variation</strong> [V1] renders a  similar grid  from your prompt ...plus adds another iteration of detail, <strong>Upscale</strong> [U1] increases the size from thumbnail to full ...plus adds another iteration of detail, but <strong>--Uplight</strong> uses a light touch to simplify details, and <strong>--Stop</strong> halts the whole render process like a handbrake.</p>
+<p>It can be difficult to get MJ to generate <strong>specific compositional arrangements</strong> because the algorithm relies on the &quot;art direction&quot; of its sources. To improve your chances of getting the composition you want, use specific words, grammatically correct language, and work with MJ through grid selections.</p>
+<p><strong>To find the seed</strong> for a current composition, react to it with an envelope. To find the seed for a past composition, copy the job ID from the website details menu and use the <code>/show</code> command with that ID, then react to the display that appears with an envelope.</p>
+<p><strong>Multi-prompts</strong> are two or more independent prompts about a single subject or setting. They are helpful to  ``clearly establish a setting:: then embellish upon subjects in that setting</p>
 <br>
 </details>
 ---
@@ -163,6 +132,7 @@ This translation of image-to-language-prompt is why feeding MJ seed images behav
 <li><p>So, all these interactions evolve your composition... BUT! <code>--uplight</code> at the end of your prompt uses a light touch to simplify details when it is rolled, and <code>--stop 90</code> halts the whole render process like a handbrake at whatever percentage you specify (replace 90 with your own number).</p>
 </li>
 </ul>
+</details>
 ---
 
 <details>
