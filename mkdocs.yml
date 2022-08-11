@@ -16,7 +16,7 @@ nav:
                   - TwinGodhead: Discord-FAQs/TwinGodhead.md
                   - 2hanssen4u: Discord-FAQs/2hanssen4u.md
                   - Saukko: Discord-FAQs/Saukko.md
-                  - JeremyCurious: Discord-FAQs/JeremyCurious.md
+                  - JeremyCurious: Discord-FAQs/JermeyCurious.md
 theme:
         name: material
         highlightjs: true
@@ -26,8 +26,8 @@ theme:
                 repo: fontawesome/brands/github
         navigation_depth: 6
         titles_only: false
-        favicon: /static/favicon.png
-        logo: /static/logo.png
+        favicon: /static/midjourney.png
+        logo: /static/midjourney.png
         features:
                 - navigation.instant
         palette:
