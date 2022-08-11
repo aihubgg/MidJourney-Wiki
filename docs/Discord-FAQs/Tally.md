@@ -82,10 +82,10 @@ No! The upscale process will generate all of its detail as it normally does, \_b
 </details>
 ---
 <details>
----
-<summary>7/25/2022 - Quality vs Style  </summary>
+<summary>7/25/2022 - Quality vs Style </summary>
 <br>
 Please note: quality settings will get rounded to the closest available setting (so .25, .5, 1, 2, and 5 are the only options available, others will be rounded)<br><img alt="Midjourney Discord Picture" src="https://cdn.discordapp.com/attachments/996170079102312468/1001168218553073755/TEAPOTSTYLES.png"><br>
+</details>
 ---
 <details>
 <summary>7/26/2022 - Condensed version with only allowable --q values </summary>
