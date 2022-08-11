@@ -14,14 +14,12 @@ nav:
                                 - clarinet: Discord-FAQs/Prompt-Craft-FAQ/clarinet.md
                                 - Tally: Discord-FAQs/Prompt-Craft-FAQ/Tally.md
                                 - AfterEarth: Discord-FAQs/Prompt-Craft-FAQ/AfterEarth.md
-                                - Danger Awesome: Discord-FAQs/Prompt-Craft-FAQ/DangerAwesome.md
-                                - Dr3am L0g1c: Discord-FAQs/Prompt-Craft-FAQ/Dr3amL0g1c.md
                                 - shambibble: Discord-FAQs/Prompt-Craft-FAQ/shambibble.md
                                 - TwinGodhead: Discord-FAQs/Prompt-Craft-FAQ/TwinGodhead.md
                                 - 2hanssen4u: Discord-FAQs/Prompt-Craft-FAQ/2hanssen4u.md
                                 - Saukko: Discord-FAQs/Prompt-Craft-FAQ/Saukko.md
                                 - JeremyCurious: Discord-FAQs/Prompt-Craft-FAQ/JermeyCurious.md
-                                - Other Resources: Discord-FAQs/Prompt-Craft-FAQ/Other-Resources.md
+                                - Other Resources: Discord-FAQs/Prompt-Craft-FAQ/OtherResources.md
 theme:
         name: material
         highlightjs: true
