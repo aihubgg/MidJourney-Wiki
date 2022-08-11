@@ -1,0 +1,5 @@
+mkdocs
+#Add pip package if needed
+pymdown-extensions
+fontawesome-markdown
+mkdocs-material
