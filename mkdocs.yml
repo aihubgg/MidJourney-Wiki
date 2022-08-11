@@ -69,5 +69,6 @@ markdown_extensions:
                   custom_checkbox: true
         - pymdownx.tilde
         - fontawesome_markdown
+        - tables
 extra:
         manifest: "static/site.webmanifest"
