@@ -97,3 +97,4 @@ Please note: quality settings will get rounded to the closest available setting 
 <br>
 (Scrub through the timeline for easy comparison)  <p><a href="https://cdn.discordapp.com/attachments/996170079102312468/1001451942423314442/MJQualities.mp4">Click for Video]</a></p>
 </details>
+---
