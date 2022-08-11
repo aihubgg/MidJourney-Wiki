@@ -1,12 +1,22 @@
-site_name: Vercel-MkDocs
-site_name: KubeSail Docs
-copyright: "Copyright &copy; 2021 KubeSail, Inc."
-site_url: https://kubesail.com
-repo_url: https://github.com/kubesail/docs
-repo_name: kubesail/docs
-google_analytics: ["UA-131519845-2", "docs.kubesail.com"]
+site_name: MidJourney Wiki
+copyright: "Copyright &copy; 2021 AiHub.gg."
+site_url: https://aihub.gg
+repo_url: https://github.com/aihubgg/MidJourney-Wiki
+repo_name: aihubgg/MidJourney-Wiki
 nav:
         - Home: README.md
+        - Discord FAQs:
+                  - Overview: Discord-FAQs/overview.md
+                  - clarinet: Discord-FAQs/clarinet.md
+                  - AfterEarth: Discord-FAQs/AfterEarth.md
+                  - Tally: Discord-FAQs/Tally.md
+                  - Danger Awesome: Discord-FAQs/DangerAwesome.md
+                  - Dr3am L0g1c: Discord-FAQs/Dr3amL0g1c.md
+                  - shambibble: Discord-FAQs/shambibble.md
+                  - TwinGodhead: Discord-FAQs/TwinGodhead.md
+                  - 2hanssen4u: Discord-FAQs/2hanssen4u.md
+                  - Saukko: Discord-FAQs/Saukko.md
+                  - JeremyCurious: Discord-FAQs/JeremyCurious.md
 theme:
         name: material
         highlightjs: true
@@ -17,7 +27,7 @@ theme:
         navigation_depth: 6
         titles_only: false
         favicon: /static/favicon.png
-        logo: /static/logo.svg
+        logo: /static/logo.png
         features:
                 - navigation.instant
         palette:
