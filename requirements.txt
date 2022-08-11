@@ -5,3 +5,5 @@ markdown-grid-tables
 git+https://github.com/tableau-tables/python-tableau-parser
 fontawesome-markdown
 mkdocs-material
+mkdocs-git-revision-date-localized-plugin
+
