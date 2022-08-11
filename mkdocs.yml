@@ -1,8 +1,9 @@
 site_name: MidJourney Wiki
-copyright: "Copyright &copy; 2021 AiHub.gg."
+copyright: "Copyright &copy; 2022 AiHub.gg."
 site_url: https://aihub.gg
-repo_url: https://github.com/aihubgg/MidJourney-Wiki
+repo_url: https://github.com/aihubgg/MidJourney-Wiki/
 repo_name: aihubgg/MidJourney-Wiki
+edit_uri: edit/main/docs/
 nav:
         - Home: README.md
         - Discord FAQs:
@@ -75,6 +76,6 @@ markdown_extensions:
 plugins:
   - search # necessary for search to work
   - git-revision-date-localized:
-      enable_creation_date: true
+      type: datetime
 extra:
         manifest: "static/site.webmanifest"
