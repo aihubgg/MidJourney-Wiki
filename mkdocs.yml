@@ -20,6 +20,8 @@ nav:
                                 - Saukko: Discord-FAQs/Prompt-Craft-FAQ/Saukko.md
                                 - JeremyCurious: Discord-FAQs/Prompt-Craft-FAQ/JermeyCurious.md
                                 - Other Resources: Discord-FAQs/Prompt-Craft-FAQ/OtherResources.md
+        - Great External Resources:
+                  - Midjourney Styles and Keywords Reference: MidjourneySAR.md
 theme:
         name: material
         custom_dir: overrides
