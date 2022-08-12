@@ -361,8 +361,8 @@ https://docs.google.com/document/d/13c8Ci-8kU2PVZu6DKghlhOOrbf4kmtc9xxCJAnPqvC0/
 <details>
 <summary>08/11/2022 - HOW TO TROUBLESHOOT YER PROMPTS</summary>
 <br>
-short document containing troubleshooting tips
-https://bit.ly/Clarinet-Prompt-Troubleshooting
+short document containing troubleshooting tips <br>
+<a href="https://bit.ly/Clarinet-Prompt-Troubleshooting">https://bit.ly/Clarinet-Prompt-Troubleshooting</a>
 <br>
 </details>
 
