@@ -22,6 +22,7 @@ nav:
                                 - Other Resources: Discord-FAQs/Prompt-Craft-FAQ/OtherResources.md
 theme:
         name: material
+        custom_dir: overrides
         highlightjs: true
         hljs_languages:
                 - yaml
