@@ -32,8 +32,8 @@ theme:
                 repo: fontawesome/brands/github
         navigation_depth: 6
         titles_only: false
-        favicon: /docs/static/midjourney.png
-        logo: /docs/static/midjourney.png
+        favicon: static/midjourney.png
+        logo: static/midjourney.png
         features:
                 - navigation.instant
         palette:
