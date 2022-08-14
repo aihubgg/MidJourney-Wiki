@@ -82,6 +82,10 @@ plugins:
   - search # necessary for search to work
   - git-revision-date-localized:
       type: datetime
+  - git-committers:
+      repository: squidfunk/mkdocs-material
+      token: !ENV GH_TOKEN
+
 extra:
   manifest: "static/site.webmanifest"
   analytics:
