@@ -4,6 +4,6 @@ pymdown-extensions
 markdown-grid-tables
 git+https://github.com/tableau-tables/python-tableau-parser
 fontawesome-markdown
-mkdocs-material
+git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
 mkdocs-git-revision-date-localized-plugin
 
