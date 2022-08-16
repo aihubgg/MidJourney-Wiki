@@ -83,6 +83,8 @@ understand why we need prompt crafting and the answer to things like
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><a href="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/ScalingImagesUp/" >Scaling
+Images Up</a></p></td>
 <td></td>
 <td><p>How to scale up images past MidJourney's max upscale for
 situations that need it (for example large, high quality canvas
