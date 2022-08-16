@@ -1,6 +1,8 @@
 ---
 title:  Midjourney Styles and Keywords
 description: The Midjourney Styles and Keywords Reference by willwulfken
+hide:
+  - toc
 ---
 # The Midjourney Styles and Keywords Reference by willwulfken
 
