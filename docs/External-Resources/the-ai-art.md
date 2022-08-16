@@ -4,7 +4,9 @@ description: AI, Art, and everything in between.
 ---
 # The-AI-Art
 
-<img align="center" width="100" height="100" src="https://www.the-ai-art.com/assets/images/generic/logo-white.png">
+<p align="center">
+<img src="https://www.the-ai-art.com/assets/images/generic/logo-white.png">
+</p>
 
 <center>The-AI-Art Has a Huge Archive of Modifiers for you too look at and compare! Its a very useful reasource. Check it out at the link below!
 
