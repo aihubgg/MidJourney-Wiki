@@ -65,8 +65,6 @@ href="https://discord.com/channels/662267976984297473/1003020682260647996">https
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="Machine_Learning_Artwork_(for_non-Experts)"
-title="wikilink">Machine Learning Artwork (for non-Experts)</a></p></td>
 <td></td>
 <td><p>Learn a bit about machine learning for art generation to help
 understand why we need prompt crafting and the answer to things like
@@ -85,23 +83,15 @@ understand why we need prompt crafting and the answer to things like
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="MidJourney:_Scaling_Images_Up" title="wikilink">Scaling
-Images Up</a></p></td>
 <td></td>
 <td><p>How to scale up images past MidJourney's max upscale for
 situations that need it (for example large, high quality canvas
 prints)</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="Improving_Faces_with_GFPGAN" title="wikilink">Improving
-Faces with GFPGAN</a></p></td>
 <td></td>
 <td><p>Improve faces generated with MidJourney using another ML
 tool.</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="How_to_Follow_the_Greats" title="wikilink">How to Follow
-the Greats</a></p></td>
 <td></td>
 <td><p>How to find and follow some of the great artists you see in
 Discord within MidJourney.</p></td>
@@ -181,15 +171,11 @@ href="https://cattail.nu/midjourney/echo-llama/index.html">https://cattail.nu/mi
 <td><p>Guide from Slate#4353, inspired by Zelrik#0969</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="MidJourney:_Cartooning"
-title="wikilink">Cartooning</a></p></td>
 <td></td>
 <td><p>How to get cartoon-like results from MidJourney (and some
 additional tools).</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="Using_Your_Picture" title="wikilink">Using Your
-Picture</a></p></td>
 <td></td>
 <td><p>How to make a picture of yourself with additional terms in
 MidJourney.</p></td>
@@ -209,8 +195,6 @@ documents exploring a topic or topics.</p>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="MidJourney:_Does_Prompt_Order_Matter?"
-title="wikilink">Does Prompt Order Matter?</a></p></td>
 <td></td>
 <td><p>Exploration of whether prompt order matters to Midjourney for
 equally weighted prompts.</p></td>
@@ -363,8 +347,7 @@ href="https://www.thedreamingstate.com/portfolio/art/prompter/">https://www.thed
 <h3 id="ai_face_feature_cleanup_tools">AI Face / Feature Cleanup
 Tools</h3>
 <p>These tools all can do post processing to clean up faces / features
-of images. Also see our guide at <a href="Improving_Faces_with_GFPGAN"
-title="wikilink">Improving Faces with GFPGAN</a>.</p>
+of images.
 <table>
 <thead>
 <tr class="header">
@@ -402,9 +385,7 @@ href="https://replicate.com/nightmareai/real-esrgan">https://replicate.com/night
 </table>
 <h3 id="image_scaling_tools">Image Scaling Tools</h3>
 <p>These tools can all help you up-scale images (better than just basic
-upscaling). Also see our guide at <a
-href="MidJourney:_Scaling_Images_Up" title="wikilink">Scaling Images
-Up</a> for comparisons.</p>
+upscaling).
 <table>
 <thead>
 <tr class="header">
@@ -418,9 +399,7 @@ Up</a> for comparisons.</p>
 <td><p>Gigapixel</p></td>
 <td><p><a
 href="https://www.topazlabs.com/gigapixel-ai">https://www.topazlabs.com/gigapixel-ai</a></p></td>
-<td><p>Paid upscaler tool (also arguably the best from the comparison at
-<a href="MidJourney:_Scaling_Images_Up" title="wikilink">Scaling Images
-Up</a>). Offers a free trial.</p></td>
+<td><p>Paid upscaler tool (also arguably the best from the comparison at. Offers a free trial.</p></td>
 </tr>
 <tr class="even">
 <td><p>Deep AI's Super Resolution</p></td>
@@ -433,8 +412,7 @@ href="https://deepai.org/machine-learning-model/torch-srgan">https://deepai.org/
 <td><p><a
 href="https://www.adobe.com/products/photoshop.html">https://www.adobe.com/products/photoshop.html</a></p></td>
 <td><p>Does a lot more than upscale, but does have a preserve detail
-upscale that's better than a basic upscale (again see comparison at <a
-href="MidJourney:_Scaling_Images_Up" title="wikilink">Scaling Images
+upscale that's better than a basic upscale.
 Up</a>)</p></td>
 </tr>
 </tbody>
