@@ -1,15 +1,8 @@
 # Date Templates
----
-<details>
-<summary>07/01/2022 - </summary>
-<br>
-Drop
-<br>
-</details>
 
 ---
 <details>
-<summary>08/01/2022 - </summary>
+<summary>08/1/2022 - </summary>
 <br>
 Drop
 <br>

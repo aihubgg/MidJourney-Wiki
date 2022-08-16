@@ -365,5 +365,76 @@ short document containing troubleshooting tips <br>
 <a href="https://bit.ly/Clarinet-Prompt-Troubleshooting">https://bit.ly/Clarinet-Prompt-Troubleshooting</a>
 <br>
 </details>
-
-
+---
+<details>
+<summary>08/16/2022 - What is the “Three Basket Problem”?</summary>
+<br>
+<p><strong>What is the &quot;Three Basket Problem&quot;?</strong></p>
+<p>The Three Basket Problem: <code>&quot;There are three baskets. The first one is filled with blueberries, the second one is filled with apples, the last one is filled with strawberries.&quot;</code></p>
+<p>▫️ MJ can&#39;t currently compose this collage, even if you replace baskets and fruit with other objects (coins, buttons, candies) or containers (bags, boxes, jars).</p>
+<p>🏆 Here is a good challenge summary, from our resident Teethyfish</p>
+<p><code>Find a way to reliably sort and separate three different types of objects. Not through rerolls or variants, but by using a prompt structure that can indicate to MJ you want three different items in three different piles. Use baskets, jars, shelves, anything goes as long as you can get a structure that does this consistently.</code></p>
+<br>
+</details>
+---
+<details>
+<summary>08/12/2022 - DOES MIDJOURNEY KNOW THIS STYLE, ARTIST, OR MEDIA?</summary>
+<br>
+To check if Midjourney understands your sourcing reference, you can /imagine something that's commonly found in that style, and if the output looks like it's adopting the style you named, you're golden. If the output looks generic with lots of orange and teal colors, you're looking at Midjourney 'defaults' which is an error message meaning NOT FOUND.
+<br>
+</details>
+---
+<details>
+<summary>08/1/22022 - CLEAR PICTURES & YOU</summary>
+<br>
+<hr>
+<p><strong>CLEAR PICTURES &amp; YOU</strong></p>
+<p>👋  to explain, let me make up some numbers, these are made-up numbers.</p>
+<ul>
+<li><p>imagine it takes (making this up) 📦1000 GPU units to render a good picture</p>
+</li>
+<li><p>one <code>/imagine</code> command, producing a grid, applies about 📦2 GPU units</p>
+</li>
+<li><p>when you upscale one of the grids, you&#39;ve applied another 📦2 GPU units</p>
+</li>
+<li><p>when you veeroll a grid selection, you&#39;ve applied 📦2 GPU units</p>
+</li>
+</ul>
+<p><strong>if it takes applying 📦1000 GPU units to render a clear picture, how many 📦 2-UNIT rolls would you need?</strong> 🦉 🍭</p>
+<hr>
+<p>👋  Once a Midjourney artist has a <em>robust prompt</em> in place (which is its own complex project), there&#39;s a good chance they will roll it many times to get it <em>&quot;baked&quot;.</em>  👩🏻‍🍳🧑🏽‍🍳👨🏾‍🍳</p>
+<p>⚠️All this said: Your mileage may vary. 🤔</p>
+<p>Prompts are 🎲combinatorial,  💭language-based, 🦋chaotic.</p>
+<p>🦈There&#39;s always a chance for your rolls to jump the shark.🦈</p>
+<hr>
+<p>(TLDR: Get a good prompt, then bake it good.)</p>
+<hr>
+<p>(P.S. This may not be technically accurate but it&#39;s still usefully descriptive. Maybe someone can fix the technical accuracy.)</p>
+<br>
+</details>
+---
+<details>
+<summary>08/13/2022 - How do I control my v-rolls?</summary>
+<br>
+<p>If you aren&#39;t using an image prompt, you can pretend for a minute that <code>--iw</code> stands for <strong>Intact</strong>.</p>
+<p>e.g.</p>
+<blockquote>
+<p><code>/imagine A sphere in a forest --c 10 --iw 4</code></p>
+</blockquote>
+<p><code>Intact</code> can be helpful if you want to lock in (or keep intact) some characteristics of your grid selection once you&#39;ve found something you like.</p>
+<p>Higher values of <code>--iw</code>  tell Midge to <em>keep some unknowable stuff about your grid selection intact</em> during v-rolls. It literally tells Midge to use the grid selection as a heavily weighted image prompt. (Shhh. That&#39;s because &quot;Intact&quot;  is just<code>--iw</code> without an image prompt, and when you&#39;re not using an image prompt, your grid selection image is the only one in play.)</p>
+<p>Two key uses we know about:</p>
+<p><strong> 🦋 #1 - Temper the chaos.</strong> Higher values of <code>--c</code> create increasingly random compositions for your grid. Higher values of <code>--iw</code> tell Midge to use the selected image from the grid as a heavily-weighted image prompt, resulting in a grid of more compositions like it when you veeroll.</p>
+<p>Using a combination of values like <code>--c 10 --iw 4</code> tells Midge you want a lot of choices on your first grid, but then you want it to &quot;settle down&quot; when you make a v-roll choice from that grid.</p>
+<p><strong> 🦥 #2 -  Slow down v-roll degradation.</strong>  If you suffer from prompts that &quot;look worse&quot; each v-roll, using a value of <code>--iw</code> could help Midge allow the grid selection you&#39;ve chosen to <em>overpower</em> the prompt you wrote, which is (unfortunately) in play as a cause for the trend. If Midge got something right, a high value of so-called &quot;Intact&quot;  <em>may</em> keep that rightness intact as you evolve your creation. (It may keep wrongness too.)</p>
+<p>✨ As usual, AI is magic. ✨ The only way to figure out what this means for your workflow is to try it. Let us know what you discover!</p>
+<br>
+</details>
+---
+<details>
+<summary>08/14/2022 - Aspect ratio does what?</summary>
+<br>
+<p>Generally speaking, wider ar will let you separate subjects more easily.   Narrower is often needed to prevent it cropping off heads and such..   Try to do two subjects in a square and sometimes MJ will just morph them together. (From @Daemon42 )</p>
+<p>generally speaking making it too tall will give you long neck/legs on things, making it too wide will start duplicating subjects (from @Teethyfish )</p>
+<br>
+</details>
