@@ -100,6 +100,7 @@ plugins:
   - external-markdown
   - meta
   - tags
+  - include-markdown
 extra:
   analytics:
         provider: google

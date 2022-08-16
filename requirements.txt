@@ -11,3 +11,4 @@ mkdocs-embed-external-markdown
 jinja2
 mkdocs-material-extensions
 pygments
+mkdocs-include-markdown-plugin
