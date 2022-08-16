@@ -37,7 +37,8 @@ theme:
         logo: static/midjourney.png
         features:
                 - navigation.instant
-                 - navigation.prune
+                - navigation.prune
+                - announce.dismiss
         palette:
                 - media: "(prefers-color-scheme: light)"
                   scheme: default
@@ -96,3 +97,6 @@ extra:
   analytics:
         provider: google
         property: G-6D0LKC374E
+  social:
+                - icon: fontawesome/brands/discord
+                  link: "https://discord.gg/CN4xnR9sEa"
