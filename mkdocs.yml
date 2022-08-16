@@ -25,9 +25,9 @@ nav:
                   - Styles and Keywords Reference: External-Resources/MidjourneySAR.md
                   - The Ai Art: External-Resources/the-ai-art.md
                   - Art Mechanicum:
-                              - Overview: /External-Resources/ArtMechanicum/ArtMechanicum.md
-                              - Guides:
-                                    - Scaling Images Up: /External-Resources/ArtMechanicum/Guides/ScalingImagesUp.md
+                                - Overview: /External-Resources/ArtMechanicum/ArtMechanicum.md
+                                - Guides:
+                                       - Scaling Images Up: /External-Resources/ArtMechanicum/Guides/ScalingImagesUp.md
 
 theme:
         name: material
