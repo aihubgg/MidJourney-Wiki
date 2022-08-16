@@ -1,3 +1,7 @@
+---
+title:  2hanssen4u Discord Guides
+description: All of 2hanssen4u Discord guides, without the scrolling!
+---
 # From User [2hanssen4u](https://discord.com/users/531253427519488010)
 <details>
 <summary>08/08/2022 - Weighting Prompts</summary>

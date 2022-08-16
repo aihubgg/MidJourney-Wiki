@@ -17,3 +17,8 @@ Drop
 </videos>
 
 <a href="">Link</a>
+
+---
+title:  Discord Guides
+description: All of  Discord guides, without the scrolling!
+---
