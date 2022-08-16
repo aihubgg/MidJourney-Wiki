@@ -97,6 +97,7 @@ plugins:
   - social
   - external-markdown
   - meta
+  - tags
 extra:
   analytics:
         provider: google
