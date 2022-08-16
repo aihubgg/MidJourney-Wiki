@@ -35,26 +35,26 @@ Unfortunately here you can't choose a specific size, so here is the default upsc
 <tbody>
 <tr class="odd">
 <td><figure>
-<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/Comparison_-_Original.png" title="Comparison - Original"
+<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/600px-Comparison_-_Original.png" title="Comparison - Original"
 width="600" height="600" alt="Comparison - Original" />
 <figcaption aria-hidden="true">Comparison - Original</figcaption>
 </figure></td>
 <td><figure>
-<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/Comparison_-_Paint.NET.png" title="Comparison - Paint.NET"
+<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/600px-Comparison_-_Comparison_-_Paint.NET.png" title="Comparison - Paint.NET"
 width="600" height="600" alt="Comparison - Paint.NET" />
 <figcaption aria-hidden="true">Comparison - Paint.NET</figcaption>
 </figure></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/Comparison_-_Super_Resolution_API_4x.png"
+<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/600px-Comparison_-_Comparison_-_Super_Resolution_API_4x.png"
 title="Comparison - Super Resolution API 4x" width="600" height="600"
 alt="Comparison - Super Resolution API 4x" />
 <figcaption aria-hidden="true">Comparison - Super Resolution API
 4x</figcaption>
 </figure></td>
 <td><figure>
-<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/Comparison_-_Super_Resolution_API_16x.png"
+<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/600px-Comparison_-_Comparison_-_Super_Resolution_API_16x.png"
 title="Comparison - Super Resolution API 16x" width="600" height="600"
 alt="Comparison - Super Resolution API 16x" />
 <figcaption aria-hidden="true">Comparison - Super Resolution API
@@ -63,14 +63,14 @@ alt="Comparison - Super Resolution API 16x" />
 </tr>
 <tr class="odd">
 <td><figure>
-<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/Comparison_-_Gigapixel_Standard_10x_(1_step).png"
+<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/600px-Comparison_-_Comparison_-_Gigapixel_Standard_10x_(1_step).png"
 title="Comparison - Gigapixel Standard 10x (1 step)" width="600"
 height="600" alt="Comparison - Gigapixel Standard 10x (1 step)" />
 <figcaption aria-hidden="true">Comparison - Gigapixel Standard 10x (1
 step)</figcaption>
 </figure></td>
 <td><figure>
-<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/Comparison_-_Gigapixel_Standard_10x_(2_steps,_5x_and_2x).png"
+<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/600px-Comparison_-_Comparison_-_Gigapixel_Standard_10x_(2_steps,_5x_and_2x).png"
 title="Comparison - Gigapixel Standard 10x (2 steps, 5x and 2x)"
 width="600" height="600"
 alt="Comparison - Gigapixel Standard 10x (2 steps, 5x and 2x)" />
@@ -80,7 +80,7 @@ steps, 5x and 2x)</figcaption>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/Photoshop_&quot;Preserve_Detail_2.0&quot;_Upscale_to_10x.png"
+<img src="https://mj.aihub.gg/External-Resources/Art-Mechanicum/Guides/Guide-Images/ScalingUpImages/600px-Photoshop__Preserve_Detail_2.0__Upscale_to_10x.png"
 title="Photoshop &quot;Preserve Details 2.0&quot; to 10x" width="600"
 height="600" alt="Photoshop &quot;Preserve Details 2.0&quot; to 10x" />
 <figcaption aria-hidden="true">Photoshop "Preserve Details 2.0" to
