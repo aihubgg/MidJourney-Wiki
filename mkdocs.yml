@@ -24,7 +24,11 @@ nav:
                   - Overview: External-Resources/Overview.md
                   - Styles and Keywords Reference: External-Resources/MidjourneySAR.md 
                   - The Ai Art: External-Resources/the-ai-art.md
-                  - Prompt Builders: External-Resources/PromptBuilders.md
+                  - Prompt Builders: 
+                                - promptoMANIA: External-Resources/Prompt-Builders/promptoMANIA.md
+                                - Phraser: External-Resources/Prompt-Builders/Phraser.md
+                                - Midjourney Prompt Generator: External-Resources/Prompt-Builders/MJPromptGenerator.md
+
                   - Art Mechanicum:
                                 - Overview: External-Resources/Art-Mechanicum/ArtMechanicum.md
                                 - Guides:
