@@ -86,6 +86,9 @@ plugins:
   - search # necessary for search to work
   - git-revision-date-localized:
       type: datetime
+  - git-committers:
+      repository: aihubgg/MidJourney-Wiki
+      token: !ENV GH_TOKEN
   - social
   - external-markdown
   - meta
