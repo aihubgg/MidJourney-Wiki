@@ -37,7 +37,6 @@ theme:
                 - yaml
         icon:
                 repo: fontawesome/brands/github
-        navigation_depth: 6
         titles_only: false
         favicon: static/midjourney.png
         logo: static/midjourney.png
