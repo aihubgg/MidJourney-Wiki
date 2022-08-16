@@ -6,18 +6,18 @@ description: A list of Midjourney External Resources arround the Web
 
 Here is a List of A bunch of great External Resouces!
 
-## Tool Resources {#tool_resources}
+## Tool Resources 
 
 These resources all deal with tooling type concerns - how to do use
 MidJourney, how ML art works, etc.
 
-### Official Resources - GO READ THESE FIRST {#official_resources___go_read_these_first}
+### Official Resources - GO READ THESE FIRST
 
   Link Name                                   URL                                     Notes
   ------------------------------------------- --------------------------------------- -----------------------------------------
   Official Midjourney Documentation & Guide   <https://midjourney.gitbook.io/docs/>   The official docs! Go read these first!
 
-### Official Discord Resources {#official_discord_resources}
+### Official Discord Resources
 
   Link Name                   URL                                                                     Notes
   --------------------------- ----------------------------------------------------------------------- -----------------------------------------
@@ -25,13 +25,13 @@ MidJourney, how ML art works, etc.
   #PromptCraft FAQ            <https://discord.com/channels/662267976984297473/996170079102312468>    The PromptCraft FAQ thread
   #PromptCraft Prompt Clips   <https://discord.com/channels/662267976984297473/1003020682260647996>   The PromptCraft Prompt Clips thread
 
-### AI Artwork Primers {#ai_artwork_primers}
+### AI Artwork Primers 
 
   Link Name                                                                                             URL   Notes
   ----------------------------------------------------------------------------------------------------- ----- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   [Machine Learning Artwork (for non-Experts)](Machine_Learning_Artwork_(for_non-Experts) "wikilink")         Learn a bit about machine learning for art generation to help understand why we need prompt crafting and the answer to things like \"why can\'t it just make hands right\"
 
-### Non-MidJourney Help Guides {#non_midjourney_help_guides}
+### Non-MidJourney Help Guides 
 
   Link Name                                                               URL   Notes
   ----------------------------------------------------------------------- ----- -----------------------------------------------------------------------------------------------------------------------------------
@@ -43,7 +43,7 @@ MidJourney, how ML art works, etc.
 
 This section deals with creating and understanding prompts.
 
-### General Prompt Guides {#general_prompt_guides}
+### General Prompt Guides
 
 These guides help you understand some general prompt craft subject
 (punctuation, image prompts, etc).
@@ -56,7 +56,7 @@ These guides help you understand some general prompt craft subject
   Midjourney's way of dealing with the :: separator   <https://docs.google.com/document/d/1vAicBgVdK9iwS8240D1wK3agt4suln_mKyhezMvapaw>                                                   Guide from Patchouli
   Troubleshooting Midjourney Text Prompts             <https://docs.google.com/document/d/e/2PACX-1vRHOxyEb-ERGi-BdZM8Z_piEP54m4HwO0z8scjmEurEp2UZVA6rFxvyKd15elYVHUWfP1oSA4CQFwxr/pub>   Guide from clarinet
 
-### Specific Prompt Guides {#specific_prompt_guides}
+### Specific Prompt Guides
 
 These guides help you achieve a specific look or image.
 
@@ -67,8 +67,7 @@ These guides help you achieve a specific look or image.
   [Cartooning](MidJourney:_Cartooning "wikilink")                                                               How to get cartoon-like results from MidJourney (and some additional tools).
   [Using Your Picture](Using_Your_Picture "wikilink")                                                           How to make a picture of yourself with additional terms in MidJourney.
 
-### Prompt Exploration {#prompt_exploration}
-
+### Prompt Exploration
 The below are less guides or help documents, more research type
 documents exploring a topic or topics.
 
@@ -81,7 +80,7 @@ documents exploring a topic or topics.
 This section deals with helping you understand and/or generate things in
 a particular style.
 
-### Style Guides {#style_guides}
+### Style Guides 
 
 Each of the below has a large set of examples of things in different
 styles to help you understand MidJourney.
@@ -166,7 +165,7 @@ styles to help you understand MidJourney.
 
 ## Tools
 
-### Prompt Generators {#prompt_generators}
+### Prompt Generators 
 
 These are links to tools which can help you create the prompt you want,
 or explore more randomly.
@@ -179,7 +178,7 @@ or explore more randomly.
   MidJourney Prompt Generator                      <https://midjourneypromptgenerator.rogerenand.com/>          
   Prompter by Shane McGeehan                       <https://www.thedreamingstate.com/portfolio/art/prompter/>   
 
-### AI Face / Feature Cleanup Tools {#ai_face_feature_cleanup_tools}
+### AI Face / Feature Cleanup Tools 
 
 These tools all can do post processing to clean up faces / features of
 images. Also see our guide at [Improving Faces with
@@ -192,7 +191,7 @@ GFPGAN](Improving_Faces_with_GFPGAN "wikilink").
   Baseten                            <https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV>   Another GFP-GAN based tool for Photo Restoration
   nightmareai/real-esrgan            <https://replicate.com/nightmareai/real-esrgan>                A Real-ESRGAN based tool for Photo Restoration
 
-### Image Scaling Tools {#image_scaling_tools}
+### Image Scaling Tools 
 
 These tools can all help you up-scale images (better than just basic
 upscaling). Also see our guide at [Scaling Images
