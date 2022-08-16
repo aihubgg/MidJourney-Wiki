@@ -4,6 +4,7 @@ description: The human-friendly prompt builder will help you.
 hide:
   - toc
 ---
+<!--md-start-->
 # promptoMANIA
 
 
@@ -16,3 +17,5 @@ hide:
 Check it out at the link below!
 
 [promptoMANIA](https://promptomania.com)</center>
+
+<!--md-end-->
