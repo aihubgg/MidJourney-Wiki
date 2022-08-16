@@ -86,6 +86,7 @@ plugins:
       repository: squidfunk/mkdocs-material
       token: !ENV GH_TOKEN
   - social
+  - external-markdown
 extra:
   manifest: "static/site.webmanifest"
   analytics:
