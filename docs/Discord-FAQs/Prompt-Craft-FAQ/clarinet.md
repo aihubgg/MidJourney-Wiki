@@ -1,7 +1,6 @@
 ---
 title: clarinets Discord Guides
 description: All of clarinets Discord guides, without the scrolling!
-icon: material/hedgehog
 ---
 # From User [clarinet](https://discord.com/users/219587894862413824)
 
