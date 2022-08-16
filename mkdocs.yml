@@ -21,7 +21,8 @@ nav:
                                 - JeremyCurious: Discord-FAQs/Prompt-Craft-FAQ/JermeyCurious.md
                                 - Other Resources: Discord-FAQs/Prompt-Craft-FAQ/OtherResources.md
         - External Resources:
-                  - Styles and Keywords Reference: MidjourneySAR.md
+                  - Overview: External-Resources/Overview.md
+                  - Styles and Keywords Reference: External-Resources/MidjourneySAR.md
 theme:
         name: material
         custom_dir: overrides
@@ -36,9 +37,11 @@ theme:
         logo: static/midjourney.png
         features:
                 - navigation.instant
+                 - navigation.prune
         palette:
                 - media: "(prefers-color-scheme: light)"
                   scheme: default
+                  primary: blue
                   toggle:
                           icon: material/weather-sunny
                           name: Switch to dark mode
@@ -83,12 +86,12 @@ plugins:
   - git-revision-date-localized:
       type: datetime
   - git-committers:
-      repository: squidfunk/mkdocs-material
+      repository: aihubgg/MidJourney-Wiki
       token: !ENV GH_TOKEN
   - social
   - external-markdown
+  - meta
 extra:
-  manifest: "static/site.webmanifest"
   analytics:
         provider: google
         property: G-6D0LKC374E
